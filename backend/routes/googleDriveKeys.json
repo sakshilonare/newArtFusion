@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "turnkey-layout-402117",
+  "private_key_id": "bdbe7313a2a4276aef2fb6a9a834b51b296e3774",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCV88ZvJJB93nPR\n6MYd9DzBa/L/DkpbGDIJxPjYWvcfPXpsbqEi9FBD7LOwtgl7almJ8qmvNhRe0lu9\nkU8xI1zUnXRkMuuxD67YCOZZxNsR2FzTyhekAH2sHyO367AflCj9nmhjY1sO5CQC\ni2IIx9bmjCw5Rf9pVPT0MzQtOBvKVc79UiJ5JNt783RnaNyCGbPyA3RA3BS5sxWr\n8GAR1oN90i3kiX74KgSF/aXtfuFlKqQD5XZbco4yD8cjW+92Q9SPzZvsQ+2PyDER\nGqiKFqVfDlSRUeEfIjaefLizd6g9iD8tPbHvL1PZFRvE7GK/VVXA4AAyEX1XqeJU\nUUpgQJLJAgMBAAECggEAAN7VP58O26nnVxFPRj6q2MLfg4RebvwUitmwkvanpN3H\nx27I99CMGrse4Hq5dxSmiB93M0Pi9PTPXGDGReibEg8r7RPU4P0+LHDdWyl5O4Db\nl/H+OyNXTkV5t78rNiFuL3vY6v40zBxU6uUmPBsZb9MrDNYPnMdYL4a1IvjrHzyM\nkkAcybu2USOEudGyMRQnIIrtSNXo2HuzZPd2TLvzXBBSyyaHw8Yiro/1l5YuK2sS\n5S3FcLbL7JbUDCXyqcSTX9/vtpeWPOCXWPQ9ex7YBSMQj+d48RWqK1g6Bbq8a9RJ\nxWb8FbuEBODfu+p3ZB1hN2kVPgSImFTeMsAmXpJ6RQKBgQDQ4j3y4l5bARa82ct3\n8b9QjMDEFI93sTqklU27Uw4mMC2e5nljUf2YayjkYMclF4KoPJ+kMUWQ+kIUb1Qd\nomy3bJazJMW4815yN8bpccuhf6rp4Yol8lKv3bvkDa34njjoojvMFO843WK5RWal\nJzmn0gHpBVdRxBSz3lO5R25LKwKBgQC3xplmMyJe1n2jI2Sq5FVAOUqv8scbqcwQ\nH2I/e2r0/X1WJdYBS+BdBexlkXwzlcimVtSLkMgZ/YWOF7kFpElRtQeyflOjI5gG\nrWJCEphOlIpcSaohRu9eFS3izv+1AoWJglPb8u/PWbCgc9oIw1Rd5mYQFt0icEdw\nR5zfiRxP2wKBgH9IjZU2aWas6C0Vzg19yyWLT19sY+v8nA50SFSQjLuqefIs4OUr\nrgs1qUpYyqEIjX50ypajy49HYALRwAD626J90erBypYj/nY9FMFlrT7w67Xu0F7F\nJauywu55g3xO9cCUMzntu8P760+YQa77kv93UeCrd4UEpdTg8kWhiEzXAoGAVg0R\nQRCKdHvcwmnNNlPKM1NgTHjSkHp2ScpYN79zepnDeXYn+d1shkJCyeBQltr45CJe\nTaeSetECG2GyShj+F9s7anHKeeYtxlqjWqrYVFsrWkFH/2L2rEggf0ZL55bxrkyv\nNZtQfPfTQ55bpqTHuVwryDbcfsayPLnbk7Pg5OcCgYAKwEAoE7cvsHc7jzbvTtDH\nH6HWmqwBT6TEe620mIwvm+TxbO2n5NPHRDV/xbujkgcHQiyVNboqohNwrfYMUPuv\njgv9Lv7iMGWgNBI5G3PpPDdLPb0NDe8wm/bejyyiJFQKUICWXs79lM2jumEvwvIA\nMNVsIf5EdBdiohgcL/27aw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "artfusion@turnkey-layout-402117.iam.gserviceaccount.com",
+  "client_id": "103976121007239207964",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/artfusion%40turnkey-layout-402117.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
